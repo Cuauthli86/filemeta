@@ -1,0 +1,24 @@
+{
+  "name": "file-meta-project",
+  "version": "1.0.0",
+  "description": "fcc project express node backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cuauthli86/filemeta.git"
+  },
+  "author": "CuauhtliX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cuauthli86/filemeta/issues"
+  },
+  "homepage": "https://github.com/Cuauthli86/filemeta#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.9",
+    "multer": "^1.3.0"
+  }
+}
